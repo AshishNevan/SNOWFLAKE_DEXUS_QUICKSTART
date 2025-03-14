@@ -8,3 +8,5 @@ ___
 Here is an overview of what we'll build in this tutorial (architecture):
 
 <img src="images/architecture.png" width=800px>
+
+[Video walkthrough](https://youtu.be/nrw8KiRCwU4)
