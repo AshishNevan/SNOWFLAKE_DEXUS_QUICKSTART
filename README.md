@@ -7,4 +7,4 @@ This repository contains the code for the *Data Engineering with Notebooks* on U
 ___
 Here is an overview of what we'll build in this tutorial (architecture):
 
-<img src="images/overview.png" width=800px>
+<img src="images/architecture.png" width=800px>
